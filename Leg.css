@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    font-family: cursive;
+  }
+header {
+  background-image: url(Image/Fondbulle.png);
+  background-repeat: no-repeat ;
+}
+  .Logo {
+    max-width: 100px;
+    margin-left: 140px;
+}
+.Icon {
+    max-width: 30px;
+    background-color: #E40003;
+    border: solid 2px #E40003 ;
+    border-radius: 40px; 
+    padding-left: 10px;
+    padding-right: 10px; 
+    margin-left: 45%; 
+    margin-bottom: 35px;
+    cursor:pointer;
+  }
+.Icon1 {
+  max-width: 30px;
+  background-color: #E40003;
+  border: solid 2px #E40003 ;
+  border-radius: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 35px;
+  cursor:pointer;
+}
+.Icon2 {
+  max-width: 30px;
+  padding-right: 450px;
+  padding-left: 16px;
+  margin-left: 50px;
+  border: solid #111111 2px;
+  background-color:#111111;
+  padding-top: 29px;
+  padding-bottom: 37px;
+  cursor:pointer;
+}
+.RS {
+  max-width: 40px;
+  cursor:pointer;
+}
+.Arrivage {
+  color: white;
+  background-color: #E40003;
+  border: solid 2px #E40003 ;
+  margin-top: 50px;
+  padding-left: 25%;
+  width: 125%;
+  display: flex;
+  align-items: center;
+}
+.Flèche0 {
+font-size: xx-large;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.Réseaux {
+  margin-left: 140px;
+  margin-top:7%;
+}
+.Res {
+  display: flex;
+}
+.Catégorie {
+  list-style: none;
+}
+.SousC {
+  margin-top:30px;
+  margin-left: 100px;
+  cursor:pointer;
+
+}
+.Affiche {
+  position: absolute;
+  margin-left: 550px;
+}
+.Header {
+  display:flex;
+  flex-direction: column;
+}
+.Head {
+  display: flex;
+  width: 100%;
+}
+
+.Nouveautés {
+  margin-left: 800px;
+  height: 50px;
+  font-size:10vh;
+  color: white;
+}
+.Super {
+  margin-left: 900px;
+  margin-bottom: 100px;
+  height:50px ;
+  font-size:3.5vh;
+  color: yellow;
+}
+.Para {
+  margin-left: 900px;
+  margin-bottom: 125px;
+  padding-left: 150px;
+  font-size:2vh;
+  color: white;
+}
+.Bouton {
+	position:absolute;
+	margin-left:1250px;
+	margin-top:25px;
+}
+.Brique {
+	margin-left:1200px;
+	margin-bottom:170px;
+}
+.NouveauxPerso {
+  display: flex;
+  margin-left: 160px;
+}
+.Icon3 {
+  max-width: 50px;
+  max-height: 50px;
+  background-color: #E40003;
+  border: solid 2px #E40003 ;
+  border-radius: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.Flèche {
+  max-width: 50px;
+  max-height: 50px;
+  margin-right: -1100px;
+  margin-left: 1100px;
+  margin-top:15px;
+}
+
+
+
+
+
